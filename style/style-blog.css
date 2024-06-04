@@ -1,0 +1,142 @@
+
+.blog-content{
+     padding-top: 94px;
+ }
+.info{
+   position: relative;
+   width: 586px;
+   height: 302px;
+}
+.blog-plant{
+    width: 287px;
+    height: 292px;
+    position: absolute;
+    mix-blend-mode: multiply;
+    left: 0;
+    bottom: 0;
+}
+.blog-text{
+    margin-top: 37px;
+    width: 292px;
+    text-align: end;
+    position:absolute;
+    right: 0;
+    margin-right: 30px;
+}
+.info-button{
+    width: 140px;
+    height: 40px;
+    display: inline-block;
+    margin-top: 25px;
+    background-color: #46A358;
+    border-radius: 6px;
+    color: #FFFFFF;
+    font-size: 16px;
+    border: 1px solid white;
+    text-align: center;
+    align-content: center;
+}
+.up{
+    display: flex;
+    gap:28px;
+    justify-content: space-around;
+}
+.center-text{
+    padding-top: 138px;
+    text-align: center;
+}
+.blog-card{
+    width: 298px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #FBFBFB;
+ }
+.blog-product{
+    display: flex;
+    gap: 40px;
+    margin-top: 35px;
+}
+.arrow{
+  width: 18px;
+  height: 18px;
+  vertical-align:middle;
+ }
+ .arrow img{
+    display: block;
+ }
+.blog-h2{
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 16px;
+    color: #3D3D3D;
+}
+.blog-h3{
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+}
+.info-fon{
+    position: absolute;
+    background-color: #FBFBFB;
+    width: 586px;
+    height: 250px;
+    bottom: 0;
+}
+.blog-text-title{
+    margin: 0;
+    font-size: 18px;
+    font-weight: 900;
+    line-height: 24px;
+}
+.blog-text-p{
+    margin: 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.blog-card-date{
+    margin: 0;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16px;
+    color:#46A358;
+}
+.blog-card-title{
+    margin: 0;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 26px;
+    color:#3D3D3D;
+}
+.blog-card-text{
+    margin: 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    color:#727272;
+}
+.blog-card-content{
+    width: 242px;
+}
+.blog-img{
+    width: 268px;
+    height: 195px;
+}
+.blog-card-arrow{
+    margin: 0;
+    margin-top: 9px;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16px;
+    color: #3D3D3D;
+}
+.card-arrow{
+    width: 16px;
+    height: 16px;
+    vertical-align:middle;
+}
+.blog-card-arrow:hover{
+    color: #46A358;
+}
